@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Cybersecurity Notes
 
 Structured, in-depth notes documenting my journey toward professional
